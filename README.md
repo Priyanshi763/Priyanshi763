@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Priyanshi Chaudhary  
-<!--
+
 🎓 Computer Science & AI Student (Graduating May 2025)  
 
 ### 🔭 I’m currently working on:  
@@ -35,5 +35,4 @@
 
 ✨ **Let’s connect and build something amazing together!** 🚀 
 
---!>
 
