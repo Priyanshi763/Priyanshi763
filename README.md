@@ -10,7 +10,7 @@
 - Cloud computing & distributed systems  
 - Advanced machine learning techniques  
 
-### 👯 I’m looking to collaborate on:  
+### 🛠️ I’m looking to collaborate on:  
 - Open-source projects  
 - AI & web development initiatives  
 
